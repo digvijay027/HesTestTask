@@ -10,4 +10,4 @@ Game is over when all units are revealed or user has clicked on MAX_CLICK number
 
 All values in capitals need to be tweakable.
 
-DO NOT USE COLLIDER FOR SEARCHING UNITS in step 3.2
+DO NOT USE COLLIDER FOR SEARCHING 
